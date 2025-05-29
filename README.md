@@ -14,13 +14,6 @@ Criar uma ferramenta visual que permita analisar as vendas e o faturamento da pe
 
 ---
 
-## Como usar
-1. Abra o arquivo `.pbix` no Power BI Desktop. (https://app.powerbi.com/groups/me/reports/76767d68-43c6-4b9e-8ffa-b7c151a9ade3/241c56034f9b0f660f9a?experience=power-bi)
-2. Explore os filtros por período, marca e nome do produto.
-3. Analise os gráficos e os indicadores para obter insights relevantes.
-
----
-
 ![image](https://github.com/user-attachments/assets/bb73f88d-3783-40c0-9d01-721d4b8b419b)
 
 
