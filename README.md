@@ -21,5 +21,10 @@ Criar uma ferramenta visual que permita analisar as vendas e o faturamento da pe
 
 ---
 
+![image](https://github.com/user-attachments/assets/bb73f88d-3783-40c0-9d01-721d4b8b419b)
+
+
 ## Contato
 Se tiver dúvidas ou quiser conversar sobre o projeto, fique à vontade para me contatar!
+
+
